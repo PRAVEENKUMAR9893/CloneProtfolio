@@ -1,0 +1,129 @@
+
+.nav1 
+{
+ background-color: antiquewhite;
+ padding:5px;
+ display: grid;
+ grid-template-columns:35% 35% 30%;
+
+}
+#sub
+{
+    margin-left: 50px;
+}
+#sub2
+{
+    list-style: none;
+    padding-left: 20px;
+}
+h3{
+    display: inline;
+    padding-left: 30px;
+    
+}
+#nav2
+{
+    
+    background-color:beige;
+    display:grid;
+    grid-template-columns:10% 60% 10% 20%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+
+}
+#btn1
+{
+    background-color: yellow; 
+    border-radius: 20px;
+    border-color: yellow;
+    padding: 10px; 
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+#main{
+    background-color: saddlebrown;
+    height: 335px;
+
+}
+h2{
+    display: inline;
+    padding-left: 70px;
+    color: white;
+}
+#main,h2{
+    padding-top: 80px;
+    padding-left:30px;
+
+}
+#btn2
+{
+    background-color: yellow; 
+    border-radius: 20px;
+    border-color: yellow;
+    padding: 10px; 
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 10px;
+}
+input{
+    padding-left: 220px;
+    margin-left: 30px;
+    padding-top:10px;
+    padding-bottom: 10px;
+}
+#img1{
+    position: relative;
+    left: 700px;
+    bottom: 200px;
+    
+}
+#body1
+{
+ display: flex;   
+
+}
+#btn3
+{
+    background-color: yellow; 
+    border-radius: 20px;
+    border-color: yellow;
+    padding: 10px; 
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 10px;
+}
+#body2
+{
+    display: flex;
+}
+#grid1
+{
+    display: flex;
+    gap:50px;
+    margin-left: 240px;
+    
+}
+#btn4
+{
+    background-color: yellow; 
+    border-radius: 20px;
+    border-color: yellow;
+    padding: 10px; 
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left:150px;
+    height: 35px;
+    margin-top: 50px;
+    width:150px;
+}
+#links{
+   display: grid;
+   grid-template-columns: 45% 45%;
+   grid-column-gap: 30px;
+}
+#list,h4
+{
+    display: inline;
+}
